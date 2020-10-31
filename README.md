@@ -1,0 +1,2 @@
+# RecyclerView-AlternativeLayout
+ Implemented R
